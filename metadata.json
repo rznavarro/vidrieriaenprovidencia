@@ -1,0 +1,6 @@
+{
+  "name": "Vidriería en Providencia",
+  "description": "Vidriería en Providencia, Santiago. Mamparas, espejos, puertas de aluminio, cubiertas, barandillas y enmarcaciones a medida. 4,7 estrellas en Google. Cotiza por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vidrieriaenprovidencia.cl/sitemap.xml
